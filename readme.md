@@ -21,7 +21,7 @@ Clone Repo. Edit `config.rb`.
 
 `bundle install`
 
-`ruby likenation.rb`
+`ruby likenationbot.rb`
 
 Bugs
 ---
